@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "asdfasfd",
+      "phone": "asfasf",
+      "email": "asdfasfd",
+      "id": 5
+    },
+    {
+      "name": "123",
+      "phone": "123",
+      "email": "123",
+      "education": "213",
+      "id": 6
+    },
+    {
+      "name": "324234",
+      "phone": "12423423",
+      "email": "3424",
+      "education": "32423",
+      "id": 7
+    },
+    {
+      "name": "1242134344",
+      "phone": "432432",
+      "email": "34234",
+      "education": "23432",
+      "id": 8
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good!"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft is good!"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google is good!"
+    }
+  ]
+}
